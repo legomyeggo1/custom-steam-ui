@@ -3,8 +3,8 @@
 :root { /* Let's define colours based on steamscheme.res */
  
 	--LightGreenBG: #50516b !important;
-	--GreenBG: #454659 !important;
-	--DarkGreenBG: #363745 !important;
+	--GreenBG: #2b2f33 !important;
+	--DarkGreenBG: #373d42 !important;
 	--BorderBright: #808080 !important;
 	--BorderDark: #22252e !important;
 	--OffWhite: #d8ded3 !important;
